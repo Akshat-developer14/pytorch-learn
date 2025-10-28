@@ -7,7 +7,9 @@ requires-python = ">=3.12"
 dependencies = [
     "ipykernel>=6.29.5",
     "matplotlib>=3.10.3",
+    "pandas>=2.3.3",
     "pip>=25.1.1",
+    "scikit-learn>=1.7.2",
     "torch>=2.7.1",
     "torchaudio>=2.7.1",
     "torchvision>=0.22.1",
